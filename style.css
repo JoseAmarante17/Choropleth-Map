@@ -1,0 +1,74 @@
+/*NAVBAR*/
+
+.img-responsive {
+    height: 25% !important;
+}
+
+.navbar {
+    background: #6ab446;
+}
+
+.nav-link,
+.navbar-brand {
+    color : #fff;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-right: 1em !important;
+    font-size   : 1.55em;
+}
+
+.nav-link:hover {
+    color      : rgb(238, 183, 137);
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 1.25em;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+
+/*CONTENT ON PAGE*/
+.content {
+    margin-left : 20% !important;
+    margin-right: 20% !important;
+}
+
+.title_card {
+    text-align: center;
+}
+
+.title_card h1 {
+    color      : #6ab446;
+    font-weight: bold;
+    margin-top : 5%;
+    margin-bottom: 5%;
+}
+.title_card p,strong{
+    color : #6ab446;
+}
+
+.content p{
+    margin-top: 3%;
+    font-size: 18pt;
+}
+
+.title_card img {
+    width: 50%;
+    box-shadow: 0 0 25px;
+    border-radius: 25px;
+}
+
+footer{
+    text-align: center;
+}
+footer h2{
+    color      : #6ab446;
+    font-style: italic;
+    margin: 1%;
+}
