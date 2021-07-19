@@ -57,7 +57,7 @@ def createsChoropleth():
     ))
 
     fig.update_layout(
-        title='Confirmed Cases of Coronavirus as of March 2021',  # Gives title to map
+        title='Confirmed Cases of Coronavirus as of March 2020',  # Gives title to map
         title_x=.5,  # referes to variable title and adds margin
         legend_bgcolor="#444",
         legend_borderwidth=200,  # sets width in pixels
